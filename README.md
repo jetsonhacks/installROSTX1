@@ -1,4 +1,4 @@
-# installROSTX2
+# installROSTX1
 Install Robot Operating System (ROS) on NVIDIA Jetson TX1
 
 These scripts will install Robot Operating System (ROS) on the NVIDIA Jetson TX1 development kit.
@@ -51,12 +51,14 @@ where optionalWorkspaceName is the name of the workspace to be used. The default
 
 ## Release Notes
 <strong>April 2018</strong>
-* L4T 28.2
+* -vL4T28.2
+* L4T 28.2 (JetPack 3.2)
 * Unify with Jetson TX2 release
 
 <strong>October 2016</strong>
-* Initial Release
-* L4T 24.2.1
+* Initial Release 
+* vL4T24.2.1
+* L4T 24.2.1 (JetPack 3.0)
 
 ## License
 MIT License
